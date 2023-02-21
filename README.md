@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alaa Shalaby 👋</h1>
 
 # 💫 About Me:
-🌱 I’m currently learning  Front-end Development.<br>👯  I’m looking to collaborate on Front-end internship..<br>💬  Ask me about Front-end web development ..<br>⚡ How to reach me: alaashalabi011@gmail.com ..
+🌱 I’m currently training in Digital Pathways For Employment(DPE) .<br>🌱 I’m currently learning  Front-end Development.<br>👯  I’m looking to collaborate on Front-end internship..<br>💬  Ask me about Front-end web development ..<br>⚡ How to reach me: alaashalabi011@gmail.com ..
 
 
 ## 🌐 Socials:
